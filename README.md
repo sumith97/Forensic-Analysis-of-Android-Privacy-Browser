@@ -18,5 +18,5 @@ Browser_Excel_Generates.py does the same activity but outputs the browser artifa
 
 Please go through Report.pdf for detail explaination of lab environment setup, Browser Test script and code explanation <br>
 
-The report also has analysis on 8 popular browsers.
+The report also has analysis on 8 popular Android browsers, Google Chrome, Mozilla Firefox & Firefox Focus, Opera, TOR, Brave, DuckDuckGo and Dolphin.
 
